@@ -7,7 +7,7 @@ Data Specialist with 7 years of experience in data analysis and data engineering
 - Master Web3 data and blockchain analytics
 - Build analytics solutions from scratch
 - Create useful data visualizations and dashboards
-- Can collaborate with cross-functional teams to solve any challenges
+- Can collaborate with cross-functional teams to solve any challenge
 
 ### Tech Stack
 Python, SQL (Clickhouse, Postgres main), Tableau, Superset, Dune Analytics, Airflow
