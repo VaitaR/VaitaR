@@ -11,6 +11,7 @@ Data Specialist with 7 years of experience in data analysis and data engineering
 
 ### Tech Stack
 Python, SQL (Clickhouse, Postgres main), Tableau, Superset, Dune Analytics, Airflow
+[Dune Portfolio](https://dune.com/vaitar)
 
 ### Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashivalin/)
