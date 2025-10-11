@@ -1,6 +1,6 @@
 # Hi there, I'm Andrew
 
-## Analytics Engineer | Data Storyteller | Web3 Enthusiast
+## Analytics Engineer | Web3 Analyst
 Data Specialist with 7 years of experience in data analysis and data engineering. Experienced in designing and enhancing data processes and infrastructures for web, mobile, and blockchain platforms. 
 
 ### What I Do
