@@ -10,7 +10,7 @@ Data Specialist with 7 years of experience in data analysis and data engineering
 - Can collaborate with cross-functional teams to solve any challenge
 
 ### Tech Stack
-Python, SQL (Clickhouse, Postgres main), Tableau, Superset, Dune Analytics, Airflow
+Python, SQL (Clickhouse, Postgres, BigQuery), Tableau, Superset, Dune Analytics, Airflow
 <br>[Dune Portfolio](https://dune.com/vaitar)
 
 ### Let's Connect
