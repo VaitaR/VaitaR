@@ -13,6 +13,8 @@ Data Specialist with 8 years of experience in data analysis and data engineering
 ### Tech Stack
 AI Agents, LangFuse, LangChain, Codex, Claude Code
 <br> Python, SQL (Clickhouse, Postgres, BigQuery), Tableau, Superset, Dune Analytics, Airflow
+
+### Public activity
 <br>[Dune Portfolio, top 500 Dune creator](https://dune.com/vaitar)
 <br>[🥈2nd Place — Ton Dune Dashboards Contest](https://t.me/dedust_en/116)
 
